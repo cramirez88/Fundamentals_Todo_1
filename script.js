@@ -22,3 +22,17 @@
 // for (let i = -52; i < 1066; i++){
 //   console.log(i)
 // }
+
+// Don’t Worry, Be Happy
+// Create beCheerful(). Within it, console.log string "good morning!" Call it 98 times.
+
+
+//   function beCheerful(){
+//     for(let i = 0; i <= 98; i++){
+//       console.log('Good Morning!')
+//     }
+    
+//   }
+
+
+// beCheerful()
