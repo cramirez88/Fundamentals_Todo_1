@@ -132,9 +132,22 @@
 
 // Whoa, That Sucker’s Huge…
 // Add odd integers from -300,000 to 300,000, and console.log the final sum. Is there a shortcut?
-let sum = 0
-for (let i = -30001; i <= 300000; i+=2){
-  sum = sum + i
-}
-console.log(sum)
+// let sum = 0
+// for (let i = -300001; i <= 300000; i+=2){
+//   sum = sum + i
+// }
+// console.log(sum)
+
+// Countdown by Fours
+// Log positive numbers starting at 2016, counting down by fours (exclude 0), without a FOR loop.
+
+// let num = 2016
+// while(num > 0){
+//   num -= 4
+//   if(num === 0){
+//     break
+//   }
+//   console.log(num)
+// }
+
 
