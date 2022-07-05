@@ -129,3 +129,12 @@
 // }
 
 // incoming('Printing...')
+
+// Whoa, That Sucker’s Huge…
+// Add odd integers from -300,000 to 300,000, and console.log the final sum. Is there a shortcut?
+let sum = 0
+for (let i = -30001; i <= 300000; i+=2){
+  sum = sum + i
+}
+console.log(sum)
+
