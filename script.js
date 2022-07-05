@@ -108,13 +108,24 @@
 // Counting, the Dojo Way
 // Print integers 1 to 100. If divisible by 5, print "Coding" instead. If by 10, also print " Dojo".
 
-for (let i = 1; i <= 100; i++){
+// for (let i = 1; i <= 100; i++){
 
-  if(i % 5 === 0 && i % 10 === 0){
+//   if(i % 5 === 0 && i % 10 === 0){
     
-    console.log('Dojo' + i)
-  }else if(i % 5 === 0){
+//     console.log('Dojo' + i)
+//   }else if(i % 5 === 0){
     
-    console.log('Coding' + i)
-  }
-}
+//     console.log('Coding' + i)
+//   }
+// }
+
+
+// What Do You Know?
+// Your function will be given an input parameter incoming. Please console.log this value.
+
+
+// function incoming(input){
+//   console.log(input)
+// }
+
+// incoming('Printing...')
