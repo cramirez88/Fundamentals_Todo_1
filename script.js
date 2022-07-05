@@ -92,3 +92,18 @@
 // }
 // console.log(total)
 
+
+// Multiples of Six
+// Print multiples of 6 up to 60,000, using a WHILE.
+
+// let num = 0
+
+while(num < 60000){
+  num++
+  if(num % 6 === 0){
+    console.log(num)
+  }
+}
+
+// Counting, the Dojo Way
+// Print integers 1 to 100. If divisible by 5, print "Coding" instead. If by 10, also print " Dojo".
